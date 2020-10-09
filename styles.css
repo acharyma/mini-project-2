@@ -1,0 +1,36 @@
+@font-face{
+    font-family: nbaFont;
+    src: url('NBA\ Celtics.ttf')
+}
+
+html{
+    margin-left: 25px;
+    width: 98%;
+    background-color: #add8e6;
+}
+body{
+    background-color: #add8e6;
+}
+.back{
+    background-color: #add8e6;
+}
+
+.normal{
+    font-family: Ubuntu Condesed;
+}
+
+.border{
+    border: 1px solid black;
+    background-color: gray;
+}
+
+.title{
+    font-family: nbaFont;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.main-title{
+    font-family: nbaFont;
+    font-size: 60px;
+}
